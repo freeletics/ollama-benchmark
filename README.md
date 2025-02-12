@@ -124,6 +124,7 @@ llm_benchmark run --ollamabin=~/code/ollama/ollama
 ### Run a benchmark for comparing different Hardware configurations
 
 ```bash
+bash fl_setup.sh
 llm_benchmark flrun
 ```
 
