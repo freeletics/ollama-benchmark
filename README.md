@@ -121,6 +121,12 @@ llm_benchmark run --no-sendinfo
 llm_benchmark run --ollamabin=~/code/ollama/ollama
 ```
 
+### Run a benchmark for comparing different Hardware configurations
+
+```bash
+llm_benchmark flrun
+```
+
 ## Reference
 
 [Ollama](https://ollama.com)
