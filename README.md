@@ -125,7 +125,6 @@ llm_benchmark run --ollamabin=~/code/ollama/ollama
 
 ```bash
 bash fl_setup.sh
-llm_benchmark flrun
 ```
 
 ## Reference
