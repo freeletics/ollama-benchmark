@@ -25,7 +25,7 @@ setup(
         'typer==0.11.0',
         'ollama==0.2.1',
         'pyyaml==6.0.1',
-        'requests==2.32.3',
+        'requests==2.32.4',
         'psutil==5.9.8',
         'GPUtil==1.4.0',
         'lib-platform==1.2.10',
